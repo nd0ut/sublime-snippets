@@ -4,5 +4,4 @@
 ]]></content>
     <tabTrigger>import</tabTrigger>
     <scope>source.js,source.jsx</scope>
-    <description>import</description>
 </snippet>

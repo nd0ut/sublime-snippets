@@ -3,6 +3,5 @@
 
 ]]></content>
     <tabTrigger>log</tabTrigger>
-    <scope>source.js</scope>
-    <description>console.log()</description>
+    <scope>source.js,source.jsx</scope>
 </snippet>
