@@ -1,6 +1,5 @@
 <snippet>
-    <content><![CDATA[console.log('${1:test$SELECTION}', ${1:$SELECTION});
-
+    <content><![CDATA[console.log('${1:test}'${2:, ${1}});
 ]]></content>
     <tabTrigger>log</tabTrigger>
     <scope>source.js,source.jsx</scope>
